@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Reflection;
 
-namespace RyansEye.Api.Extensions
+namespace ToolsAndExtensions
 {
     public static class FilterExtensions
     {
